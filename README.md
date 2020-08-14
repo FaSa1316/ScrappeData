@@ -4,12 +4,12 @@ Notre programme du jour consiste à sauvegarder des données que nous avons réc
 
 # Pré requis
 Avant d'excécuter notre programme, nous aurrons besoin de quelque fonctionnalité pour pouvoir le lancer. Pour ce faire, nous vous invitons à ouvrir votre terminal et vous rediriger dans le dossier où le programme se trouve et tapez : 
-## bundle
+##$bundle
 cette ligne de commande installera toutes les gems que nous aurons besoins pour lancer le pgm.
 
 # Démarrer le programme
 Après avoir effectué tout cela, il suffit juste de rentrer sur le terminal le code suivant : 
-## ruby app.rb
+##$ruby app.rb
 Sur ce, nous allons vous demander le type de format que vous voulez enregistrer et veuillez tapez la commande adéquat. Dès que c'est fait, un message apparraîtra quand le programme aurra fini d'analyser, récupérer et sauvegarder les éléments.
 Vous pouvez ainsi prendre votre fichier dans le dossier db.
 
